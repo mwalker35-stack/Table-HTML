@@ -1,0 +1,15 @@
+.color {
+    background: rgb(74, 71, 238);
+}
+
+.thead {
+    font-size: 45px;
+    font-weight: bolder;
+    background: green;
+}
+
+.table {
+    font-size: xx-large;
+    margin-left: auto;
+    margin-right: auto;
+}
